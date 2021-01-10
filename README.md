@@ -8,9 +8,9 @@ I'm Jared. I am a fullstack software engineer specializing in the "NERDS" stack 
 
 - 🤔 I’m looking for help with improving my frontend development skills, specifically in design and CSS. 
 
-- 📫 How to reach me: https://linkedin.com/in/jaredusher, usherjared@yahoo.com
+- 📫 How to reach me: https://linkedin.com/in/jaredusher, usherjared@yahoo.com.
 
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him/His.
 
 - ⚡ Fun fact: I'm a huge coffee nerd. Let me know your brew recipes and favorite beans! I'll share mine as well.
 
