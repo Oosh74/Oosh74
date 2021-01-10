@@ -15,5 +15,3 @@ I'm Jared. I am a fullstack software engineer specializing in the "NERDS" stack 
 - ⚡ Fun fact: I'm a huge coffee nerd. Let me know your brew recipes and favorite beans! I'll share mine as well.
 
 Thank you for stopping by, feel free to check out any of my projects. 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
