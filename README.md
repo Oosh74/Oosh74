@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Jared. I am a fullstack software engineer specializing in the "NERDS" stack (Node, Express, React, Databases using SQL, specifically PostgreSQL with Sequelize). 
+I'm Jared. I am a full stack software engineer specializing in the "NERDS" stack (Node, Express, React, Databases using SQL, specifically PostgreSQL with Sequelize). 
 
-- 🔭 I’m currently working on improving old projects and creating a list of new projects I want to dive into, including learning new technologies such as React Native and Electron. I am always working on improving my skill in problem solving, critical thinking, and algos.
-
-- 🤔 I’m looking for help with improving my frontend/design skills.
+- 🔭 I’m currently working on improving old projects. I am always working on improving my skill in problem solving, critical thinking, and algos.
 
 - 📫 How to reach me: https://linkedin.com/in/jaredusher, usherjared@yahoo.com.
 
