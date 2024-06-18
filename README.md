@@ -1,13 +1,17 @@
 ### Hi!
 
-I'm Jared. I am a full stack software engineer specializing in the "NERDS" stack (Node, Express, React, Databases using SQL, specifically PostgreSQL with Sequelize). 
+I'm Jared (He/Him). I am a full-stack web developer and designer. Some technologies I work with include:
 
-- I’m currently working on improving old projects, studying web design, and making awesome websites.
+* HTML
+* CSS
+* JavaScript
+* Node/Express.js
+* React
+* PostgreSQL
+* Sequelize.js
+* and more
 
-- How to reach me: https://linkedin.com/in/jaredusher, jaredusher.dev@gmail.com
+I’m currently refreshing myself on the basics, studying PHP, and studying C#
+You can reach me at: https://linkedin.com/in/jaredusher, jaredusher.dev@gmail.com
 
-- Pronouns: He/Him/His.
-
-- Fun fact: I'm colorblind.
-
-Thank you for stopping by, check out of my projects. 
+Thank you for stopping by.
