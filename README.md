@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Jared (He/Him). I am a full-stack web developer and designer. Some technologies I work with include:
+I'm Jared, I'm a full-stack web developer and designer. Some technologies I work with include:
 
 * HTML
 * CSS
